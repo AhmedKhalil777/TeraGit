@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeraGit.Infrastructure", "TeraGit.Infrastructure\TeraGit.Infrastructure\TeraGit.Infrastructure.csproj", "{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeraGit.Domain", "TeraGit.Domain\TeraGit.Domain\TeraGit.Domain.csproj", "{1FD09A96-E978-43D0-90C7-E6818535DA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeraGit.WPF", "TeraGit.WPF\TeraGit.WPF\TeraGit.WPF.csproj", "{254E1393-8078-42A6-9C8C-A3DE5D7BD556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Debug|x64.Build.0 = Debug|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Debug|x86.Build.0 = Debug|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Release|x64.ActiveCfg = Release|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Release|x64.Build.0 = Release|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4DB5495A-7A0D-41D6-B399-4F258C77CEAD}.Release|x86.Build.0 = Release|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Debug|x64.Build.0 = Debug|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Debug|x86.Build.0 = Debug|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Release|x64.ActiveCfg = Release|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Release|x64.Build.0 = Release|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Release|x86.ActiveCfg = Release|Any CPU
+		{1FD09A96-E978-43D0-90C7-E6818535DA90}.Release|x86.Build.0 = Release|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Debug|x64.Build.0 = Debug|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Debug|x86.Build.0 = Debug|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Release|x64.ActiveCfg = Release|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Release|x64.Build.0 = Release|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Release|x86.ActiveCfg = Release|Any CPU
+		{254E1393-8078-42A6-9C8C-A3DE5D7BD556}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F32EAA-E319-4638-BA49-4F4CA4E88E96}
+	EndGlobalSection
+EndGlobal
